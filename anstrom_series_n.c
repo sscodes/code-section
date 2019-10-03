@@ -5,7 +5,7 @@ float angstrom(int);
 int main()
 {
     int N,i;
-    printf("\nEnter the limit\t");
+    printf("\nEnter the limit:\t");
     scanf("%d",&N);
     for(i=1;i<=N;i++)
     {
